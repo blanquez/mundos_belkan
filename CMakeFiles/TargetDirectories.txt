@@ -1,0 +1,9 @@
+/home/angel/Escritorio/practica2/CMakeFiles/rebuild_cache.dir
+/home/angel/Escritorio/practica2/CMakeFiles/edit_cache.dir
+/home/angel/Escritorio/practica2/CMakeFiles/BelkanSG.dir
+/home/angel/Escritorio/practica2/CMakeFiles/GLUILib.dir
+/home/angel/Escritorio/practica2/CMakeFiles/Belkan.dir
+/home/angel/Escritorio/practica2/CMakeFiles/obj3DLib.dir
+/home/angel/Escritorio/practica2/CMakeFiles/motorLib.dir
+/home/angel/Escritorio/practica2/CMakeFiles/modelosBelkanLib.dir
+/home/angel/Escritorio/practica2/CMakeFiles/comportamientosLib.dir
